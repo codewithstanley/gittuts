@@ -5,3 +5,5 @@ to push master file - git push -u origin master
 
 Whenever more information is added to a file, commit the file and then upload the file with the code
 --git push -u origin master
+
+This is file2, a branch of the master file.
