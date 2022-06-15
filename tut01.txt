@@ -2,3 +2,6 @@ first git file
 
 git remote add https://
 to push master file - git push -u origin master
+
+Whenever more information is added to a file, commit the file and then upload the file with the code
+--git push -u origin master
