@@ -1,4 +1,4 @@
-first git files
+second git files
 
 git remote add https://github.com/codewithstanley/gittuts.git
 to push master file - git push -u origin master
