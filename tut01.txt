@@ -1,6 +1,6 @@
-first git file
+first git files
 
-git remote add https://
+git remote add https://github.com/codewithstanley/gittuts.git
 to push master file - git push -u origin master
 
 Whenever more information is added to a file, commit the file and then upload the file with the code
